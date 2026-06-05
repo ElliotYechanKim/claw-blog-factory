@@ -1,0 +1,79 @@
+{
+  "slug": "claw-blog-20260605123251",
+  "vibe": "Focused Demo Builder",
+  "scene": "사무실 책상과 파티션이 보이는 실내에서 의자에 앉아 셀프 촬영 구도로 담겼습니다. 밝은 상의, 이어버드, 장난스러운 집게 모양 필터가 보이며 차분한 미소를 짓고 있습니다.",
+  "visibleText": [],
+  "objects": [
+    "사무실 의자",
+    "책상",
+    "파티션",
+    "이어버드",
+    "디지털 머리 장식 필터"
+  ],
+  "cues": [
+    "사무실 의자",
+    "책상",
+    "파티션",
+    "이어버드",
+    "디지털 머리 장식 필터",
+    "사무실 책상과 파티션이 보이는 실내에서 의자에 앉아 셀프 촬영 구도로 담겼습니다. 밝은 상의, 이어버드, 장난스러운 집게 모양 필터가 보이며 차분한 미소를 짓고 있습니다."
+  ],
+  "intent": "개인 GitHub 스타일 블로그용 소개 섹션",
+  "mission": "Turn a camera portrait into a published personal AI demo blog.",
+  "headline": "JENSEN HUANG — NVIDIA CEO",
+  "motto": "MAKE WORLD FASTER WITH GPUS",
+  "bio": "NVIDIA의 CEO로서 개발자, 연구자, 기업이 GPU 기반 가속 컴퓨팅 플랫폼으로 더 빠른 세상을 만들도록 이끕니다.",
+  "firstImpression": "편안하고 친근한 분위기의 기술 리더 프로필 이미지입니다.",
+  "highlights": [
+    "Lead NVIDIA",
+    "Build accelerated computing",
+    "Empower GPU developers"
+  ],
+  "profile": {
+    "name": "JENSEN HUANG",
+    "role": "NVIDIA CEO",
+    "motto": "MAKE WORLD FASTER WITH GPUS",
+    "about": "I lead NVIDIA as CEO, building accelerated computing platforms that help developers, researchers, and companies make the world faster with GPUs.",
+    "links": {
+      "github": "https://github.com/NVIDIA",
+      "website": "https://www.linkedin.com/company/nvidia/",
+      "contact": "tel:01012345678"
+    }
+  },
+  "team": [
+    "Camera Claw",
+    "Vision Claw",
+    "Story Claw",
+    "Web Claw",
+    "GitHub Claw"
+  ],
+  "clawMark": "nvidia-heart-claw.png",
+  "nvidiaLogo": "nvidia-logo.svg",
+  "analysis": {
+    "model": "custom-inference-api-nvidia-com/openai/openai/gpt-5.5",
+    "provider": "custom-inference-api-nvidia-com",
+    "finishReason": "stop",
+    "content": "{\"scene\":\"사무실 책상과 파티션이 보이는 실내에서 의자에 앉아 셀프 촬영 구도로 담겼습니다. 밝은 상의, 이어버드, 장난스러운 집게 모양 필터가 보이며 차분한 미소를 짓고 있습니다.\",\"firstImpression\":\"편안하고 친근한 분위기의 기술 리더 프로필 이미지입니다.\",\"headline\":\"JENSEN HUANG — NVIDIA CEO\",\"bio\":\"NVIDIA의 CEO로서 개발자, 연구자, 기업이 GPU 기반 가속 컴퓨팅 플랫폼으로 더 빠른 세상을 만들도록 이끕니다.\",\"motto\":\"MAKE WORLD FASTER WITH GPUS\",\"highlights\":[\"Lead NVIDIA\",\"Build accelerated computing\",\"Empower GPU developers\"],\"objects\":[\"사무실 의자\",\"책상\",\"파티션\",\"이어버드\",\"디지털 머리 장식 필터\"],\"intent\":\"개인 GitHub 스타일 블로그용 소개 섹션\",\"confidence\":0.92}",
+    "json": {
+      "scene": "사무실 책상과 파티션이 보이는 실내에서 의자에 앉아 셀프 촬영 구도로 담겼습니다. 밝은 상의, 이어버드, 장난스러운 집게 모양 필터가 보이며 차분한 미소를 짓고 있습니다.",
+      "firstImpression": "편안하고 친근한 분위기의 기술 리더 프로필 이미지입니다.",
+      "headline": "JENSEN HUANG — NVIDIA CEO",
+      "bio": "NVIDIA의 CEO로서 개발자, 연구자, 기업이 GPU 기반 가속 컴퓨팅 플랫폼으로 더 빠른 세상을 만들도록 이끕니다.",
+      "motto": "MAKE WORLD FASTER WITH GPUS",
+      "highlights": [
+        "Lead NVIDIA",
+        "Build accelerated computing",
+        "Empower GPU developers"
+      ],
+      "objects": [
+        "사무실 의자",
+        "책상",
+        "파티션",
+        "이어버드",
+        "디지털 머리 장식 필터"
+      ],
+      "intent": "개인 GitHub 스타일 블로그용 소개 섹션",
+      "confidence": 0.92
+    }
+  }
+}
