@@ -1,0 +1,48 @@
+{
+  "slug": "claw-blog-20260606104746",
+  "lang": "ko",
+  "vibe": "Focused Demo Builder",
+  "scene": "",
+  "visibleText": [],
+  "objects": [],
+  "cues": [],
+  "intent": "사진 한 장으로 개인화된 Claw GitHub Blog를 생성합니다.",
+  "mission": "Turn a camera portrait into a published personal AI demo blog.",
+  "headline": "JENSEN HUANG · NVIDIA CEO",
+  "motto": "MAKE WORLD FASTER WITH GPUS",
+  "bio": "I lead NVIDIA as CEO, building accelerated computing platforms that help developers, researchers, and companies make the world faster with GPUs.",
+  "firstImpression": "JENSEN HUANG님은 카메라 앞에서 차분하고 발표에 준비된 인상을 줍니다.",
+  "highlights": [
+    "Build accelerated computing platforms",
+    "Scale AI infrastructure",
+    "Empower developers with GPUs"
+  ],
+  "profile": {
+    "name": "JENSEN HUANG",
+    "role": "NVIDIA CEO",
+    "motto": "MAKE WORLD FASTER WITH GPUS",
+    "about": "I lead NVIDIA as CEO, building accelerated computing platforms that help developers, researchers, and companies make the world faster with GPUs.",
+    "links": {
+      "github": "https://github.com/NVIDIA",
+      "website": "https://www.linkedin.com/company/nvidia/",
+      "contact": "tel:01012345678"
+    }
+  },
+  "team": [
+    "Camera Claw",
+    "Vision Claw",
+    "Story Claw",
+    "Web Claw",
+    "GitHub Claw",
+    "Telegram Claw"
+  ],
+  "clawMark": "nvidia-heart-claw.png",
+  "nvidiaLogo": "nvidia-logo.svg",
+  "analysis": {
+    "model": "vllm/unsloth/Qwen3.6-35B-A3B-GGUF",
+    "provider": "vllm",
+    "finishReason": "length",
+    "content": "",
+    "json": null
+  }
+}
