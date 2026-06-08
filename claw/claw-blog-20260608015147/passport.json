@@ -1,0 +1,86 @@
+{
+  "slug": "claw-blog-20260608015147",
+  "lang": "ko",
+  "vibe": "Focused Demo Builder",
+  "scene": "실내 행사장처럼 보이는 공간에서 여러 사람과 함께 정면을 바라보는 구도입니다. 중앙 인물은 파란 상의와 목걸이형 출입증을 착용했고, 안경을 쓴 채 차분한 표정을 하고 있습니다. 화면에는 장난스러운 집게발 필터가 적용되어 있습니다.",
+  "visibleText": [
+    "OPEN SOURCE"
+  ],
+  "objects": [
+    "안경",
+    "파란 상의",
+    "목걸이형 출입증",
+    "가방 끈",
+    "집게발 그래픽 필터"
+  ],
+  "cues": [
+    "안경",
+    "파란 상의",
+    "목걸이형 출입증",
+    "가방 끈",
+    "집게발 그래픽 필터",
+    "실내 행사장처럼 보이는 공간에서 여러 사람과 함께 정면을 바라보는 구도입니다. 중앙 인물은 파란 상의와 목걸이형 출입증을 착용했고, 안경을 쓴 채 차분한 표정을 하고 있습니다. 화면에는 장난스러운 집게발 필터가 적용되어 있습니다."
+  ],
+  "intent": "개인 GitHub 스타일 블로그 프로필 소개",
+  "mission": "Turn a camera portrait into a published personal AI demo blog.",
+  "headline": "Woongseob Han | 광학 엔지니어",
+  "motto": "MAKE WORLD FASTER WITH GPUS",
+  "bio": "광학 엔지니어로서 엔지니어링 문제를 탐구하며, GPU를 활용해 더 빠른 세상을 만드는 데 관심을 둡니다.",
+  "firstImpression": "차분하고 기술 커뮤니티 분위기에 잘 어울리는 실용적인 인상입니다.",
+  "highlights": [
+    "Optical Engineering",
+    "GPU Acceleration",
+    "Engineering Notes"
+  ],
+  "profile": {
+    "name": "Woongseob han",
+    "role": "optical engineer",
+    "motto": "MAKE WORLD FASTER WITH GPUS",
+    "about": "engineer",
+    "links": {
+      "github": "https://github.com/NVIDIA",
+      "website": "https://www.linkedin.com/company/nvidia/",
+      "contact": "tel:01012345678"
+    }
+  },
+  "team": [
+    "Camera Claw",
+    "Vision Claw",
+    "Story Claw",
+    "Web Claw",
+    "GitHub Claw",
+    "Telegram Claw"
+  ],
+  "clawMark": "nvidia-heart-claw.png",
+  "nvidiaLogo": "nvidia-logo.svg",
+  "analysis": {
+    "model": "custom-inference-api-nvidia-com/openai/openai/gpt-5.5",
+    "provider": "custom-inference-api-nvidia-com",
+    "finishReason": "stop",
+    "content": "{\"scene\":\"실내 행사장처럼 보이는 공간에서 여러 사람과 함께 정면을 바라보는 구도입니다. 중앙 인물은 파란 상의와 목걸이형 출입증을 착용했고, 안경을 쓴 채 차분한 표정을 하고 있습니다. 화면에는 장난스러운 집게발 필터가 적용되어 있습니다.\",\"firstImpression\":\"차분하고 기술 커뮤니티 분위기에 잘 어울리는 실용적인 인상입니다.\",\"headline\":\"Woongseob Han | 광학 엔지니어\",\"bio\":\"광학 엔지니어로서 엔지니어링 문제를 탐구하며, GPU를 활용해 더 빠른 세상을 만드는 데 관심을 둡니다.\",\"motto\":\"GPU로 세상을 더 빠르게\",\"highlights\":[\"Optical Engineering\",\"GPU Acceleration\",\"Engineering Notes\"],\"visibleText\":[\"OPEN SOURCE\"],\"objects\":[\"안경\",\"파란 상의\",\"목걸이형 출입증\",\"가방 끈\",\"집게발 그래픽 필터\"],\"intent\":\"개인 GitHub 스타일 블로그 프로필 소개\",\"confidence\":0.91}",
+    "json": {
+      "scene": "실내 행사장처럼 보이는 공간에서 여러 사람과 함께 정면을 바라보는 구도입니다. 중앙 인물은 파란 상의와 목걸이형 출입증을 착용했고, 안경을 쓴 채 차분한 표정을 하고 있습니다. 화면에는 장난스러운 집게발 필터가 적용되어 있습니다.",
+      "firstImpression": "차분하고 기술 커뮤니티 분위기에 잘 어울리는 실용적인 인상입니다.",
+      "headline": "Woongseob Han | 광학 엔지니어",
+      "bio": "광학 엔지니어로서 엔지니어링 문제를 탐구하며, GPU를 활용해 더 빠른 세상을 만드는 데 관심을 둡니다.",
+      "motto": "GPU로 세상을 더 빠르게",
+      "highlights": [
+        "Optical Engineering",
+        "GPU Acceleration",
+        "Engineering Notes"
+      ],
+      "visibleText": [
+        "OPEN SOURCE"
+      ],
+      "objects": [
+        "안경",
+        "파란 상의",
+        "목걸이형 출입증",
+        "가방 끈",
+        "집게발 그래픽 필터"
+      ],
+      "intent": "개인 GitHub 스타일 블로그 프로필 소개",
+      "confidence": 0.91
+    }
+  }
+}
