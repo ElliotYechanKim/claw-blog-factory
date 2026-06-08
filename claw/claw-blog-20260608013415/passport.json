@@ -1,0 +1,81 @@
+{
+  "slug": "claw-blog-20260608013415",
+  "lang": "ko",
+  "vibe": "Focused Demo Builder",
+  "scene": "큰 창이 있는 실내 행사 공간에서 여러 사람들 사이에 서 있으며, 정면을 바라보는 상반신 중심의 사진입니다. 밝은 셔츠와 백팩, 목걸이형 명찰이 보이고 머리 위에는 장난스러운 게 집게 모양의 필터가 적용되어 있습니다.",
+  "visibleText": [],
+  "objects": [
+    "백팩",
+    "목걸이형 명찰",
+    "밝은 셔츠",
+    "디지털 게 집게 필터",
+    "실내 군중"
+  ],
+  "cues": [
+    "백팩",
+    "목걸이형 명찰",
+    "밝은 셔츠",
+    "디지털 게 집게 필터",
+    "실내 군중",
+    "큰 창이 있는 실내 행사 공간에서 여러 사람들 사이에 서 있으며, 정면을 바라보는 상반신 중심의 사진입니다. 밝은 셔츠와 백팩, 목걸이형 명찰이 보이고 머리 위에는 장난스러운 게 집게 모양의 필터가 적용되어 있습니다."
+  ],
+  "intent": "개인 GitHub 스타일 블로그 프로필 소개",
+  "mission": "Turn a camera portrait into a published personal AI demo blog.",
+  "headline": "컴퓨터 아키텍처와 메모리 컨트롤러를 연구하는 대학원생",
+  "motto": "Think before act",
+  "bio": "Jihoon Kim은 대학원에서 컴퓨터 아키텍처와 메모리 컨트롤러를 연구합니다. 신중하게 생각하고 행동하는 태도로 시스템 성능과 메모리 구조에 대한 이해를 넓혀가고 있습니다.",
+  "firstImpression": "차분하고 담담한 표정으로 카메라를 바라보며, 학술 행사나 모임에 참여한 듯한 실용적인 분위기가 느껴집니다.",
+  "highlights": [
+    "Computer Architecture",
+    "Memory Controllers",
+    "Graduate Research"
+  ],
+  "profile": {
+    "name": "Jihoon Kim",
+    "role": "Graduate School student",
+    "motto": "Think before act",
+    "about": "I study in graduate school, researching in Computer Architecture and Memory Controller.",
+    "links": {
+      "github": "https://github.com/NVIDIA",
+      "website": "https://www.linkedin.com/company/nvidia/",
+      "contact": "tel:01012345678"
+    }
+  },
+  "team": [
+    "Camera Claw",
+    "Vision Claw",
+    "Story Claw",
+    "Web Claw",
+    "GitHub Claw",
+    "Telegram Claw"
+  ],
+  "clawMark": "nvidia-heart-claw.png",
+  "nvidiaLogo": "nvidia-logo.svg",
+  "analysis": {
+    "model": "custom-inference-api-nvidia-com/openai/openai/gpt-5.5",
+    "provider": "custom-inference-api-nvidia-com",
+    "finishReason": "stop",
+    "content": "{\"scene\":\"큰 창이 있는 실내 행사 공간에서 여러 사람들 사이에 서 있으며, 정면을 바라보는 상반신 중심의 사진입니다. 밝은 셔츠와 백팩, 목걸이형 명찰이 보이고 머리 위에는 장난스러운 게 집게 모양의 필터가 적용되어 있습니다.\",\"firstImpression\":\"차분하고 담담한 표정으로 카메라를 바라보며, 학술 행사나 모임에 참여한 듯한 실용적인 분위기가 느껴집니다.\",\"headline\":\"컴퓨터 아키텍처와 메모리 컨트롤러를 연구하는 대학원생\",\"bio\":\"Jihoon Kim은 대학원에서 컴퓨터 아키텍처와 메모리 컨트롤러를 연구합니다. 신중하게 생각하고 행동하는 태도로 시스템 성능과 메모리 구조에 대한 이해를 넓혀가고 있습니다.\",\"motto\":\"행동하기 전에 생각하자\",\"highlights\":[\"Computer Architecture\",\"Memory Controllers\",\"Graduate Research\"],\"objects\":[\"백팩\",\"목걸이형 명찰\",\"밝은 셔츠\",\"디지털 게 집게 필터\",\"실내 군중\"],\"intent\":\"개인 GitHub 스타일 블로그 프로필 소개\",\"confidence\":0.93}",
+    "json": {
+      "scene": "큰 창이 있는 실내 행사 공간에서 여러 사람들 사이에 서 있으며, 정면을 바라보는 상반신 중심의 사진입니다. 밝은 셔츠와 백팩, 목걸이형 명찰이 보이고 머리 위에는 장난스러운 게 집게 모양의 필터가 적용되어 있습니다.",
+      "firstImpression": "차분하고 담담한 표정으로 카메라를 바라보며, 학술 행사나 모임에 참여한 듯한 실용적인 분위기가 느껴집니다.",
+      "headline": "컴퓨터 아키텍처와 메모리 컨트롤러를 연구하는 대학원생",
+      "bio": "Jihoon Kim은 대학원에서 컴퓨터 아키텍처와 메모리 컨트롤러를 연구합니다. 신중하게 생각하고 행동하는 태도로 시스템 성능과 메모리 구조에 대한 이해를 넓혀가고 있습니다.",
+      "motto": "행동하기 전에 생각하자",
+      "highlights": [
+        "Computer Architecture",
+        "Memory Controllers",
+        "Graduate Research"
+      ],
+      "objects": [
+        "백팩",
+        "목걸이형 명찰",
+        "밝은 셔츠",
+        "디지털 게 집게 필터",
+        "실내 군중"
+      ],
+      "intent": "개인 GitHub 스타일 블로그 프로필 소개",
+      "confidence": 0.93
+    }
+  }
+}
