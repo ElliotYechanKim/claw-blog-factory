@@ -1,0 +1,87 @@
+{
+  "slug": "claw-blog-20260608022845",
+  "lang": "ko",
+  "vibe": "Focused Demo Builder",
+  "scene": "큰 창이 있는 실내 행사 공간에서 여러 사람이 함께 있는 가운데, 주인공이 화면 오른쪽 앞쪽에 가까이 프레이밍되어 있습니다. 안경을 쓰고 흰색 상의를 입었으며, 머리 위에는 게 집게 모양의 재미있는 디지털 효과가 보입니다.",
+  "visibleText": [
+    "사진 속 명찰 일부에 한글 이름이 보이지만",
+    "프로필 소개에는 제공된 이름 DA EUN SUNG을 사용했습니다."
+  ],
+  "objects": [
+    "안경",
+    "흰색 상의",
+    "디지털 게 집게 효과",
+    "실내 창문",
+    "사람들",
+    "전시 화면"
+  ],
+  "cues": [
+    "안경",
+    "흰색 상의",
+    "디지털 게 집게 효과",
+    "실내 창문",
+    "사람들",
+    "큰 창이 있는 실내 행사 공간에서 여러 사람이 함께 있는 가운데, 주인공이 화면 오른쪽 앞쪽에 가까이 프레이밍되어 있습니다. 안경을 쓰고 흰색 상의를 입었으며, 머리 위에는 게 집게 모양의 재미있는 디지털 효과가 보입니다."
+  ],
+  "intent": "개인 GitHub 스타일 블로그용 프로필 소개 생성",
+  "mission": "Turn a camera portrait into a published personal AI demo blog.",
+  "headline": "DA EUN SUNG — SNU 학생의 기록 공간",
+  "motto": "HAPPY LIFE",
+  "bio": "SNU에서 공부하는 학생 DA EUN SUNG입니다. 배움과 일상의 생각을 GitHub 스타일 블로그에 차분히 정리합니다.",
+  "firstImpression": "차분하고 친근한 분위기이며, 블로그 프로필에 어울리는 자연스러운 순간입니다.",
+  "highlights": [
+    "Study at SNU",
+    "Learn and Explore",
+    "Share Blog Notes"
+  ],
+  "profile": {
+    "name": "DA EUN SUNG",
+    "role": "STUDENT",
+    "motto": "HAPPY LIFE",
+    "about": "SNU STUDENT",
+    "links": {
+      "github": "https://github.com/NVIDIA",
+      "website": "https://www.linkedin.com/company/nvidia/",
+      "contact": "tel:01012345678"
+    }
+  },
+  "team": [
+    "Camera Claw",
+    "Vision Claw",
+    "Story Claw",
+    "Web Claw",
+    "GitHub Claw",
+    "Telegram Claw"
+  ],
+  "clawMark": "nvidia-heart-claw.png",
+  "nvidiaLogo": "nvidia-logo.svg",
+  "analysis": {
+    "model": "custom-inference-api-nvidia-com/openai/openai/gpt-5.5",
+    "provider": "custom-inference-api-nvidia-com",
+    "finishReason": "stop",
+    "content": "{\"scene\":\"큰 창이 있는 실내 행사 공간에서 여러 사람이 함께 있는 가운데, 주인공이 화면 오른쪽 앞쪽에 가까이 프레이밍되어 있습니다. 안경을 쓰고 흰색 상의를 입었으며, 머리 위에는 게 집게 모양의 재미있는 디지털 효과가 보입니다.\",\"firstImpression\":\"차분하고 친근한 분위기이며, 블로그 프로필에 어울리는 자연스러운 순간입니다.\",\"headline\":\"DA EUN SUNG — SNU 학생의 기록 공간\",\"bio\":\"SNU에서 공부하는 학생 DA EUN SUNG입니다. 배움과 일상의 생각을 GitHub 스타일 블로그에 차분히 정리합니다.\",\"motto\":\"HAPPY LIFE — 행복한 삶을 향해 꾸준히 배우기\",\"highlights\":[\"Study at SNU\",\"Learn and Explore\",\"Share Blog Notes\"],\"visibleText\":\"사진 속 명찰 일부에 한글 이름이 보이지만, 프로필 소개에는 제공된 이름 DA EUN SUNG을 사용했습니다.\",\"objects\":[\"안경\",\"흰색 상의\",\"디지털 게 집게 효과\",\"실내 창문\",\"사람들\",\"전시 화면\"],\"intent\":\"개인 GitHub 스타일 블로그용 프로필 소개 생성\",\"confidence\":0.91}",
+    "json": {
+      "scene": "큰 창이 있는 실내 행사 공간에서 여러 사람이 함께 있는 가운데, 주인공이 화면 오른쪽 앞쪽에 가까이 프레이밍되어 있습니다. 안경을 쓰고 흰색 상의를 입었으며, 머리 위에는 게 집게 모양의 재미있는 디지털 효과가 보입니다.",
+      "firstImpression": "차분하고 친근한 분위기이며, 블로그 프로필에 어울리는 자연스러운 순간입니다.",
+      "headline": "DA EUN SUNG — SNU 학생의 기록 공간",
+      "bio": "SNU에서 공부하는 학생 DA EUN SUNG입니다. 배움과 일상의 생각을 GitHub 스타일 블로그에 차분히 정리합니다.",
+      "motto": "HAPPY LIFE — 행복한 삶을 향해 꾸준히 배우기",
+      "highlights": [
+        "Study at SNU",
+        "Learn and Explore",
+        "Share Blog Notes"
+      ],
+      "visibleText": "사진 속 명찰 일부에 한글 이름이 보이지만, 프로필 소개에는 제공된 이름 DA EUN SUNG을 사용했습니다.",
+      "objects": [
+        "안경",
+        "흰색 상의",
+        "디지털 게 집게 효과",
+        "실내 창문",
+        "사람들",
+        "전시 화면"
+      ],
+      "intent": "개인 GitHub 스타일 블로그용 프로필 소개 생성",
+      "confidence": 0.91
+    }
+  }
+}
