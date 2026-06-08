@@ -1,0 +1,81 @@
+{
+  "slug": "claw-blog-20260608000601",
+  "lang": "ko",
+  "vibe": "Focused Demo Builder",
+  "scene": "큰 창이 있는 밝은 실내 공간에서 상반신 중심으로 촬영되었고, 검은색 칼라 셔츠를 입고 카메라를 바라보며 차분한 표정을 보입니다. 머리 위에는 집게 모양의 장식 필터가 적용되어 있습니다.",
+  "visibleText": [
+    "NVIDIA"
+  ],
+  "objects": [
+    "검은색 칼라 셔츠",
+    "큰 창",
+    "실내 공간",
+    "디지털 집게 장식"
+  ],
+  "cues": [
+    "검은색 칼라 셔츠",
+    "큰 창",
+    "실내 공간",
+    "디지털 집게 장식",
+    "큰 창이 있는 밝은 실내 공간에서 상반신 중심으로 촬영되었고, 검은색 칼라 셔츠를 입고 카메라를 바라보며 차분한 표정을 보입니다. 머리 위에는 집게 모양의 장식 필터가 적용되어 있습니다."
+  ],
+  "intent": "개인 GitHub 스타일 블로그용 프로필 소개",
+  "mission": "Turn a camera portrait into a published personal AI demo blog.",
+  "headline": "JENSEN HUANG — GPU로 세상을 더 빠르게 만드는 NVIDIA CEO",
+  "motto": "MAKE WORLD FASTER WITH GPUS",
+  "bio": "NVIDIA CEO로서 가속 컴퓨팅 플랫폼을 이끌며, 개발자·연구자·기업이 GPU를 통해 더 빠른 세상을 만들도록 돕습니다. 사진은 실내에서 정면에 가깝게 촬영되어 개인 블로그 프로필에 자연스럽게 어울립니다.",
+  "firstImpression": "편안하고 담백한 분위기의 GitHub 스타일 프로필 사진으로, 기술 행사나 업무 공간에 어울리는 인상을 줍니다.",
+  "highlights": [
+    "Lead NVIDIA",
+    "Build GPU Platforms",
+    "Accelerate Computing"
+  ],
+  "profile": {
+    "name": "JENSEN HUANG",
+    "role": "NVIDIA CEO",
+    "motto": "MAKE WORLD FASTER WITH GPUS",
+    "about": "I lead NVIDIA as CEO, building accelerated computing platforms that help developers, researchers, and companies make the world faster with GPUs.",
+    "links": {
+      "github": "https://github.com/NVIDIA",
+      "website": "https://www.linkedin.com/company/nvidia/",
+      "contact": "tel:01012345678"
+    }
+  },
+  "team": [
+    "Camera Claw",
+    "Vision Claw",
+    "Story Claw",
+    "Web Claw",
+    "GitHub Claw",
+    "Telegram Claw"
+  ],
+  "clawMark": "nvidia-heart-claw.png",
+  "nvidiaLogo": "nvidia-logo.svg",
+  "analysis": {
+    "model": "custom-inference-api-nvidia-com/openai/openai/gpt-5.5",
+    "provider": "custom-inference-api-nvidia-com",
+    "finishReason": "stop",
+    "content": "{\"scene\":\"큰 창이 있는 밝은 실내 공간에서 상반신 중심으로 촬영되었고, 검은색 칼라 셔츠를 입고 카메라를 바라보며 차분한 표정을 보입니다. 머리 위에는 집게 모양의 장식 필터가 적용되어 있습니다.\",\"firstImpression\":\"편안하고 담백한 분위기의 GitHub 스타일 프로필 사진으로, 기술 행사나 업무 공간에 어울리는 인상을 줍니다.\",\"headline\":\"JENSEN HUANG — GPU로 세상을 더 빠르게 만드는 NVIDIA CEO\",\"bio\":\"NVIDIA CEO로서 가속 컴퓨팅 플랫폼을 이끌며, 개발자·연구자·기업이 GPU를 통해 더 빠른 세상을 만들도록 돕습니다. 사진은 실내에서 정면에 가깝게 촬영되어 개인 블로그 프로필에 자연스럽게 어울립니다.\",\"motto\":\"GPU로 세상을 더 빠르게\",\"highlights\":[\"Lead NVIDIA\",\"Build GPU Platforms\",\"Accelerate Computing\"],\"visibleText\":\"NVIDIA\",\"objects\":[\"검은색 칼라 셔츠\",\"큰 창\",\"실내 공간\",\"디지털 집게 장식\"],\"intent\":\"개인 GitHub 스타일 블로그용 프로필 소개\",\"confidence\":0.86}",
+    "json": {
+      "scene": "큰 창이 있는 밝은 실내 공간에서 상반신 중심으로 촬영되었고, 검은색 칼라 셔츠를 입고 카메라를 바라보며 차분한 표정을 보입니다. 머리 위에는 집게 모양의 장식 필터가 적용되어 있습니다.",
+      "firstImpression": "편안하고 담백한 분위기의 GitHub 스타일 프로필 사진으로, 기술 행사나 업무 공간에 어울리는 인상을 줍니다.",
+      "headline": "JENSEN HUANG — GPU로 세상을 더 빠르게 만드는 NVIDIA CEO",
+      "bio": "NVIDIA CEO로서 가속 컴퓨팅 플랫폼을 이끌며, 개발자·연구자·기업이 GPU를 통해 더 빠른 세상을 만들도록 돕습니다. 사진은 실내에서 정면에 가깝게 촬영되어 개인 블로그 프로필에 자연스럽게 어울립니다.",
+      "motto": "GPU로 세상을 더 빠르게",
+      "highlights": [
+        "Lead NVIDIA",
+        "Build GPU Platforms",
+        "Accelerate Computing"
+      ],
+      "visibleText": "NVIDIA",
+      "objects": [
+        "검은색 칼라 셔츠",
+        "큰 창",
+        "실내 공간",
+        "디지털 집게 장식"
+      ],
+      "intent": "개인 GitHub 스타일 블로그용 프로필 소개",
+      "confidence": 0.86
+    }
+  }
+}
