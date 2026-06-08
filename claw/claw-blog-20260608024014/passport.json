@@ -1,0 +1,78 @@
+{
+  "slug": "claw-blog-20260608024014",
+  "lang": "ko",
+  "vibe": "Focused Demo Builder",
+  "scene": "밝은 실내 공간에서 여러 사람이 함께 앉아 있고, 중앙 인물이 카메라 가까이에 자리한 캐주얼한 단체 사진입니다. 화면에는 장난스러운 게 모양 AR 필터가 적용되어 있습니다.",
+  "visibleText": [],
+  "objects": [
+    "노트북 화면",
+    "음료",
+    "목걸이형 출입증",
+    "AR 게 필터"
+  ],
+  "cues": [
+    "노트북 화면",
+    "음료",
+    "목걸이형 출입증",
+    "AR 게 필터",
+    "밝은 실내 공간에서 여러 사람이 함께 앉아 있고, 중앙 인물이 카메라 가까이에 자리한 캐주얼한 단체 사진입니다. 화면에는 장난스러운 게 모양 AR 필터가 적용되어 있습니다."
+  ],
+  "intent": "개인 GitHub 스타일 블로그 프로필 소개",
+  "mission": "Turn a camera portrait into a published personal AI demo blog.",
+  "headline": "YEONWOO SO | SNU 대학원생의 기록",
+  "motto": "HAPPY LIFE",
+  "bio": "SNU에서 공부하는 대학원생 YEONWOO SO입니다. 학업과 관심사를 GitHub 스타일 블로그에 정리하며 행복한 삶을 지향합니다.",
+  "firstImpression": "차분한 표정과 편안한 자세로, 학업과 일상을 자연스럽게 공유하는 개인 블로그 분위기가 느껴집니다.",
+  "highlights": [
+    "Graduate Study",
+    "SNU Student Life",
+    "Personal Blogging"
+  ],
+  "profile": {
+    "name": "YEONWOO SO",
+    "role": "Graduate School student",
+    "motto": "HAPPY LIFE",
+    "about": "SNU STUDENT",
+    "links": {
+      "github": "https://github.com/NVIDIA",
+      "website": "https://www.linkedin.com/company/nvidia/",
+      "contact": "tel:01012345678"
+    }
+  },
+  "team": [
+    "Camera Claw",
+    "Vision Claw",
+    "Story Claw",
+    "Web Claw",
+    "GitHub Claw",
+    "Telegram Claw"
+  ],
+  "clawMark": "nvidia-heart-claw.png",
+  "nvidiaLogo": "nvidia-logo.svg",
+  "analysis": {
+    "model": "custom-inference-api-nvidia-com/openai/openai/gpt-5.5",
+    "provider": "custom-inference-api-nvidia-com",
+    "finishReason": "stop",
+    "content": "{\"scene\":\"밝은 실내 공간에서 여러 사람이 함께 앉아 있고, 중앙 인물이 카메라 가까이에 자리한 캐주얼한 단체 사진입니다. 화면에는 장난스러운 게 모양 AR 필터가 적용되어 있습니다.\",\"firstImpression\":\"차분한 표정과 편안한 자세로, 학업과 일상을 자연스럽게 공유하는 개인 블로그 분위기가 느껴집니다.\",\"headline\":\"YEONWOO SO | SNU 대학원생의 기록\",\"bio\":\"SNU에서 공부하는 대학원생 YEONWOO SO입니다. 학업과 관심사를 GitHub 스타일 블로그에 정리하며 행복한 삶을 지향합니다.\",\"motto\":\"HAPPY LIFE\",\"highlights\":[\"Graduate Study\",\"SNU Student Life\",\"Personal Blogging\"],\"objects\":[\"노트북 화면\",\"음료\",\"목걸이형 출입증\",\"AR 게 필터\"],\"intent\":\"개인 GitHub 스타일 블로그 프로필 소개\",\"confidence\":0.88}",
+    "json": {
+      "scene": "밝은 실내 공간에서 여러 사람이 함께 앉아 있고, 중앙 인물이 카메라 가까이에 자리한 캐주얼한 단체 사진입니다. 화면에는 장난스러운 게 모양 AR 필터가 적용되어 있습니다.",
+      "firstImpression": "차분한 표정과 편안한 자세로, 학업과 일상을 자연스럽게 공유하는 개인 블로그 분위기가 느껴집니다.",
+      "headline": "YEONWOO SO | SNU 대학원생의 기록",
+      "bio": "SNU에서 공부하는 대학원생 YEONWOO SO입니다. 학업과 관심사를 GitHub 스타일 블로그에 정리하며 행복한 삶을 지향합니다.",
+      "motto": "HAPPY LIFE",
+      "highlights": [
+        "Graduate Study",
+        "SNU Student Life",
+        "Personal Blogging"
+      ],
+      "objects": [
+        "노트북 화면",
+        "음료",
+        "목걸이형 출입증",
+        "AR 게 필터"
+      ],
+      "intent": "개인 GitHub 스타일 블로그 프로필 소개",
+      "confidence": 0.88
+    }
+  }
+}
