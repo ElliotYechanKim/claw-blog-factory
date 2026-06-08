@@ -1,0 +1,84 @@
+{
+  "slug": "claw-blog-20260608044215",
+  "lang": "ko",
+  "vibe": "Focused Demo Builder",
+  "scene": "큰 창이 있는 실내 공간에서 여러 사람이 함께 서 있으며, 중앙 인물은 정면을 바라보고 있습니다. 사진에는 게 모양의 재미있는 AR 스티커 효과가 적용되어 있습니다.",
+  "visibleText": [],
+  "objects": [
+    "창문",
+    "목걸이 카드",
+    "셔츠와 타이",
+    "가방 스트랩",
+    "스마트폰",
+    "AR 게 스티커"
+  ],
+  "cues": [
+    "창문",
+    "목걸이 카드",
+    "셔츠와 타이",
+    "가방 스트랩",
+    "스마트폰",
+    "큰 창이 있는 실내 공간에서 여러 사람이 함께 서 있으며, 중앙 인물은 정면을 바라보고 있습니다. 사진에는 게 모양의 재미있는 AR 스티커 효과가 적용되어 있습니다."
+  ],
+  "intent": "개인 GitHub 스타일 블로그 프로필 소개",
+  "mission": "Turn a camera portrait into a published personal AI demo blog.",
+  "headline": "MINHO LEE | 마케터",
+  "motto": "HAPPY LIFE",
+  "bio": "마케팅을 중심으로 브랜드와 콘텐츠를 고민하는 마케터입니다. 단정한 프레젠테이션과 밝은 분위기 속에서 ‘HAPPY LIFE’라는 메시지를 전합니다.",
+  "firstImpression": "차분한 표정과 단정한 셔츠·타이 스타일이 어울려 신뢰감 있는 분위기를 줍니다.",
+  "highlights": [
+    "Brand Strategy",
+    "Campaign Planning",
+    "Content Marketing"
+  ],
+  "profile": {
+    "name": "MINHO LEE",
+    "role": "MARKETER",
+    "motto": "HAPPY LIFE",
+    "about": "MARKETER",
+    "links": {
+      "github": "https://github.com/NVIDIA",
+      "website": "https://www.linkedin.com/company/nvidia/",
+      "contact": "tel:01012345678"
+    }
+  },
+  "team": [
+    "Camera Claw",
+    "Vision Claw",
+    "Story Claw",
+    "Web Claw",
+    "GitHub Claw",
+    "Telegram Claw"
+  ],
+  "clawMark": "nvidia-heart-claw.png",
+  "nvidiaLogo": "nvidia-logo.svg",
+  "analysis": {
+    "model": "custom-inference-api-nvidia-com/openai/openai/gpt-5.5",
+    "provider": "custom-inference-api-nvidia-com",
+    "finishReason": "stop",
+    "content": "{\"scene\":\"큰 창이 있는 실내 공간에서 여러 사람이 함께 서 있으며, 중앙 인물은 정면을 바라보고 있습니다. 사진에는 게 모양의 재미있는 AR 스티커 효과가 적용되어 있습니다.\",\"firstImpression\":\"차분한 표정과 단정한 셔츠·타이 스타일이 어울려 신뢰감 있는 분위기를 줍니다.\",\"headline\":\"MINHO LEE | 마케터\",\"bio\":\"마케팅을 중심으로 브랜드와 콘텐츠를 고민하는 마케터입니다. 단정한 프레젠테이션과 밝은 분위기 속에서 ‘HAPPY LIFE’라는 메시지를 전합니다.\",\"motto\":\"HAPPY LIFE\",\"highlights\":[\"Brand Strategy\",\"Campaign Planning\",\"Content Marketing\"],\"visibleText\":\"\",\"objects\":[\"창문\",\"목걸이 카드\",\"셔츠와 타이\",\"가방 스트랩\",\"스마트폰\",\"AR 게 스티커\"],\"intent\":\"개인 GitHub 스타일 블로그 프로필 소개\",\"confidence\":0.88}",
+    "json": {
+      "scene": "큰 창이 있는 실내 공간에서 여러 사람이 함께 서 있으며, 중앙 인물은 정면을 바라보고 있습니다. 사진에는 게 모양의 재미있는 AR 스티커 효과가 적용되어 있습니다.",
+      "firstImpression": "차분한 표정과 단정한 셔츠·타이 스타일이 어울려 신뢰감 있는 분위기를 줍니다.",
+      "headline": "MINHO LEE | 마케터",
+      "bio": "마케팅을 중심으로 브랜드와 콘텐츠를 고민하는 마케터입니다. 단정한 프레젠테이션과 밝은 분위기 속에서 ‘HAPPY LIFE’라는 메시지를 전합니다.",
+      "motto": "HAPPY LIFE",
+      "highlights": [
+        "Brand Strategy",
+        "Campaign Planning",
+        "Content Marketing"
+      ],
+      "visibleText": "",
+      "objects": [
+        "창문",
+        "목걸이 카드",
+        "셔츠와 타이",
+        "가방 스트랩",
+        "스마트폰",
+        "AR 게 스티커"
+      ],
+      "intent": "개인 GitHub 스타일 블로그 프로필 소개",
+      "confidence": 0.88
+    }
+  }
+}
