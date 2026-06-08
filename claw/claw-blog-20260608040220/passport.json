@@ -1,0 +1,61 @@
+{
+  "slug": "claw-blog-20260608040220",
+  "lang": "ko",
+  "vibe": "Focused Demo Builder",
+  "scene": "실내 공간에서 여러 사람이 모여 있는 가운데, 한 인물이 정면을 응시하며 촬영된 모습",
+  "visibleText": [],
+  "objects": [],
+  "cues": [
+    "실내 공간에서 여러 사람이 모여 있는 가운데, 한 인물이 정면을 응시하며 촬영된 모습"
+  ],
+  "intent": "사진 한 장으로 개인화된 Claw GitHub Blog를 생성합니다.",
+  "mission": "Turn a camera portrait into a published personal AI demo blog.",
+  "headline": "가속 컴퓨팅의 선구자",
+  "motto": "MAKE WORLD FASTER WITH GPUS",
+  "bio": "NVIDIA의 CEO로서 GPU를 활용한 가속 컴퓨팅 플랫폼을 구축하며, 개발자와 연구자들이 세상을 더 빠르게 변화시킬 수 있도록 이끌고 있습니다.",
+  "firstImpression": "차분하고 진지한 분위기",
+  "highlights": [
+    "Accelerated Computing",
+    "GPU Platform Leadership",
+    "Driving Global Innovation"
+  ],
+  "profile": {
+    "name": "JENSEN HUANG",
+    "role": "NVIDIA CEO",
+    "motto": "MAKE WORLD FASTER WITH GPUS",
+    "about": "I lead NVIDIA as CEO, building accelerated computing platforms that help developers, researchers, and companies make the world faster with GPUs.",
+    "links": {
+      "github": "https://github.com/NVIDIA",
+      "website": "https://www.linkedin.com/company/nvidia/",
+      "contact": "tel:01012345678"
+    }
+  },
+  "team": [
+    "Camera Claw",
+    "Vision Claw",
+    "Story Claw",
+    "Web Claw",
+    "GitHub Claw",
+    "Telegram Claw"
+  ],
+  "clawMark": "nvidia-heart-claw.png",
+  "nvidiaLogo": "nvidia-logo.svg",
+  "analysis": {
+    "model": "vllm/unsloth/Qwen3.6-35B-A3B-GGUF",
+    "provider": "vllm",
+    "finishReason": "stop",
+    "content": "{\n\"scene\": \"실내 공간에서 여러 사람이 모여 있는 가운데, 한 인물이 정면을 응시하며 촬영된 모습\",\n\"firstImpression\": \"차분하고 진지한 분위기\",\n\"headline\": \"가속 컴퓨팅의 선구자\",\n\"bio\": \"NVIDIA의 CEO로서 GPU를 활용한 가속 컴퓨팅 플랫폼을 구축하며, 개발자와 연구자들이 세상을 더 빠르게 변화시킬 수 있도록 이끌고 있습니다.\",\n\"motto\": \"GPU로 세상을 더 빠르게 만듭니다\",\n\"highlights\": [\n\"Accelerated Computing\",\n\"GPU Platform Leadership\",\n\"Driving Global Innovation\"\n]\n}",
+    "json": {
+      "scene": "실내 공간에서 여러 사람이 모여 있는 가운데, 한 인물이 정면을 응시하며 촬영된 모습",
+      "firstImpression": "차분하고 진지한 분위기",
+      "headline": "가속 컴퓨팅의 선구자",
+      "bio": "NVIDIA의 CEO로서 GPU를 활용한 가속 컴퓨팅 플랫폼을 구축하며, 개발자와 연구자들이 세상을 더 빠르게 변화시킬 수 있도록 이끌고 있습니다.",
+      "motto": "GPU로 세상을 더 빠르게 만듭니다",
+      "highlights": [
+        "Accelerated Computing",
+        "GPU Platform Leadership",
+        "Driving Global Innovation"
+      ]
+    }
+  }
+}
