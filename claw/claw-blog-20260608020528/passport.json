@@ -1,0 +1,81 @@
+{
+  "slug": "claw-blog-20260608020528",
+  "lang": "ko",
+  "vibe": "Focused Demo Builder",
+  "scene": "밝은 창가가 있는 실내 행사 공간에서 여러 사람들 사이에 중앙으로 프레이밍되어 있으며, 줄무늬 셔츠와 백팩 스트랩이 보이고 머리 위에는 집게 모양의 재미있는 AR 필터가 적용되어 있다.",
+  "visibleText": [],
+  "objects": [
+    "줄무늬 셔츠",
+    "백팩",
+    "AR 집게 필터",
+    "실내 군중",
+    "큰 창문"
+  ],
+  "cues": [
+    "줄무늬 셔츠",
+    "백팩",
+    "AR 집게 필터",
+    "실내 군중",
+    "큰 창문",
+    "밝은 창가가 있는 실내 행사 공간에서 여러 사람들 사이에 중앙으로 프레이밍되어 있으며, 줄무늬 셔츠와 백팩 스트랩이 보이고 머리 위에는 집게 모양의 재미있는 AR 필터가 적용되어 있다."
+  ],
+  "intent": "개인 GitHub 스타일 블로그 프로필 소개",
+  "mission": "Turn a camera portrait into a published personal AI demo blog.",
+  "headline": "Jungmin Seo의 학생 개발·학습 블로그",
+  "motto": "happy happy",
+  "bio": "SNU 학생으로서 공부한 내용과 프로젝트 기록을 GitHub 스타일 블로그에 정리합니다.",
+  "firstImpression": "카메라를 차분히 바라보는 담백하고 집중된 분위기.",
+  "highlights": [
+    "Study Notes",
+    "Campus Projects",
+    "GitHub Blog"
+  ],
+  "profile": {
+    "name": "Jungmin Seo",
+    "role": "Student",
+    "motto": "happy happy",
+    "about": "SNU STUDENT",
+    "links": {
+      "github": "https://github.com/NVIDIA",
+      "website": "https://www.linkedin.com/company/nvidia/",
+      "contact": "tel:01012345678"
+    }
+  },
+  "team": [
+    "Camera Claw",
+    "Vision Claw",
+    "Story Claw",
+    "Web Claw",
+    "GitHub Claw",
+    "Telegram Claw"
+  ],
+  "clawMark": "nvidia-heart-claw.png",
+  "nvidiaLogo": "nvidia-logo.svg",
+  "analysis": {
+    "model": "custom-inference-api-nvidia-com/openai/openai/gpt-5.5",
+    "provider": "custom-inference-api-nvidia-com",
+    "finishReason": "stop",
+    "content": "{\"scene\":\"밝은 창가가 있는 실내 행사 공간에서 여러 사람들 사이에 중앙으로 프레이밍되어 있으며, 줄무늬 셔츠와 백팩 스트랩이 보이고 머리 위에는 집게 모양의 재미있는 AR 필터가 적용되어 있다.\",\"firstImpression\":\"카메라를 차분히 바라보는 담백하고 집중된 분위기.\",\"headline\":\"Jungmin Seo의 학생 개발·학습 블로그\",\"bio\":\"SNU 학생으로서 공부한 내용과 프로젝트 기록을 GitHub 스타일 블로그에 정리합니다.\",\"motto\":\"행복하게, 행복하게\",\"highlights\":[\"Study Notes\",\"Campus Projects\",\"GitHub Blog\"],\"objects\":[\"줄무늬 셔츠\",\"백팩\",\"AR 집게 필터\",\"실내 군중\",\"큰 창문\"],\"intent\":\"개인 GitHub 스타일 블로그 프로필 소개\",\"confidence\":0.93}",
+    "json": {
+      "scene": "밝은 창가가 있는 실내 행사 공간에서 여러 사람들 사이에 중앙으로 프레이밍되어 있으며, 줄무늬 셔츠와 백팩 스트랩이 보이고 머리 위에는 집게 모양의 재미있는 AR 필터가 적용되어 있다.",
+      "firstImpression": "카메라를 차분히 바라보는 담백하고 집중된 분위기.",
+      "headline": "Jungmin Seo의 학생 개발·학습 블로그",
+      "bio": "SNU 학생으로서 공부한 내용과 프로젝트 기록을 GitHub 스타일 블로그에 정리합니다.",
+      "motto": "행복하게, 행복하게",
+      "highlights": [
+        "Study Notes",
+        "Campus Projects",
+        "GitHub Blog"
+      ],
+      "objects": [
+        "줄무늬 셔츠",
+        "백팩",
+        "AR 집게 필터",
+        "실내 군중",
+        "큰 창문"
+      ],
+      "intent": "개인 GitHub 스타일 블로그 프로필 소개",
+      "confidence": 0.93
+    }
+  }
+}
