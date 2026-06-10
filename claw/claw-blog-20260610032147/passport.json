@@ -1,0 +1,84 @@
+{
+  "slug": "claw-blog-20260610032147",
+  "lang": "en",
+  "vibe": "Focused Demo Builder",
+  "scene": "A seated portrait in a bright office, framed from the chest up. The person smiles at the camera, raises a peace sign, wears a black collared top, and has a playful red claw headband overlay. Desks, monitors, office chairs, windows, and a bag are visible in the background.",
+  "visibleText": [],
+  "objects": [
+    "office desks",
+    "computer monitors",
+    "office chairs",
+    "large windows",
+    "bag",
+    "digital claw headband overlay"
+  ],
+  "cues": [
+    "office desks",
+    "computer monitors",
+    "office chairs",
+    "large windows",
+    "bag",
+    "A seated portrait in a bright office, framed from the chest up. The person smiles at the camera, raises a peace sign, wears a black collared top, and has a playful red claw headband overlay. Desks, monitors, office chairs, windows, and a bag are visible in the background."
+  ],
+  "intent": "Personal GitHub-style blog profile image and homepage summary.",
+  "mission": "Turn a camera portrait into a published personal AI demo blog.",
+  "headline": "JENSEN HUANG — NVIDIA CEO",
+  "motto": "MAKE WORLD FASTER WITH GPUS",
+  "bio": "I lead NVIDIA as CEO, building accelerated computing platforms that help developers, researchers, and companies make the world faster with GPUs.",
+  "firstImpression": "Friendly, approachable, and playful, with a casual tech-office feel.",
+  "highlights": [
+    "Lead NVIDIA strategy",
+    "Build accelerated computing",
+    "Empower GPU developers"
+  ],
+  "profile": {
+    "name": "JENSEN HUANG",
+    "role": "NVIDIA CEO",
+    "motto": "MAKE WORLD FASTER WITH GPUS",
+    "about": "I lead NVIDIA as CEO, building accelerated computing platforms that help developers, researchers, and companies make the world faster with GPUs.",
+    "links": {
+      "github": "https://github.com/NVIDIA",
+      "website": "https://www.linkedin.com/company/nvidia/",
+      "contact": "tel:01012345678"
+    }
+  },
+  "team": [
+    "Camera Claw",
+    "Vision Claw",
+    "Story Claw",
+    "Web Claw",
+    "GitHub Claw",
+    "Telegram Claw"
+  ],
+  "clawMark": "nvidia-heart-claw.png",
+  "nvidiaLogo": "nvidia-logo.svg",
+  "analysis": {
+    "model": "custom-inference-api-nvidia-com/openai/openai/gpt-5.5",
+    "provider": "custom-inference-api-nvidia-com",
+    "finishReason": "stop",
+    "content": "{\"scene\":\"A seated portrait in a bright office, framed from the chest up. The person smiles at the camera, raises a peace sign, wears a black collared top, and has a playful red claw headband overlay. Desks, monitors, office chairs, windows, and a bag are visible in the background.\",\"firstImpression\":\"Friendly, approachable, and playful, with a casual tech-office feel.\",\"headline\":\"JENSEN HUANG — NVIDIA CEO\",\"bio\":\"I lead NVIDIA as CEO, building accelerated computing platforms that help developers, researchers, and companies make the world faster with GPUs.\",\"motto\":\"Make the world faster with GPUs.\",\"highlights\":[\"Lead NVIDIA strategy\",\"Build accelerated computing\",\"Empower GPU developers\"],\"visibleText\":\"\",\"objects\":[\"office desks\",\"computer monitors\",\"office chairs\",\"large windows\",\"bag\",\"digital claw headband overlay\"],\"intent\":\"Personal GitHub-style blog profile image and homepage summary.\",\"confidence\":0.93}",
+    "json": {
+      "scene": "A seated portrait in a bright office, framed from the chest up. The person smiles at the camera, raises a peace sign, wears a black collared top, and has a playful red claw headband overlay. Desks, monitors, office chairs, windows, and a bag are visible in the background.",
+      "firstImpression": "Friendly, approachable, and playful, with a casual tech-office feel.",
+      "headline": "JENSEN HUANG — NVIDIA CEO",
+      "bio": "I lead NVIDIA as CEO, building accelerated computing platforms that help developers, researchers, and companies make the world faster with GPUs.",
+      "motto": "Make the world faster with GPUs.",
+      "highlights": [
+        "Lead NVIDIA strategy",
+        "Build accelerated computing",
+        "Empower GPU developers"
+      ],
+      "visibleText": "",
+      "objects": [
+        "office desks",
+        "computer monitors",
+        "office chairs",
+        "large windows",
+        "bag",
+        "digital claw headband overlay"
+      ],
+      "intent": "Personal GitHub-style blog profile image and homepage summary.",
+      "confidence": 0.93
+    }
+  }
+}
